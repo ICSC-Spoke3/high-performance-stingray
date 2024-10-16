@@ -51,7 +51,6 @@ except ImportError:
     _H5PY_INSTALLED = False
     DEFAULT_FORMAT = "pickle"
 
-
 HAS_128 = True
 try:
     np.float128
